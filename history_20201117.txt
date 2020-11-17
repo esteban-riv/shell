@@ -1,0 +1,387 @@
+python
+sudo echo asdas
+echo Hello world
+Asds\{}+_)(*,,,.>?|}{+_)(*&
+ñÃ�
+?
+echo $SHELL
+echo "$SHELL"
+echo '$SHELL'
+echo `date`
+date
+$fecha = date
+fecha=hello
+fecha=date
+echo($fecha)
+date
+fecha
+$fecha
+printenv
+history
+gedit .history
+echo "estamos 'esn' en"
+echo $SHELL
+echo hola hola
+echo "hola hola"
+echo "hola hola $(SHELL)"
+$date
+$(date)
+"hola $(date)"
+echo "hola $(echo)"
+echo "hola $(date)"
+echo $date
+date
+echo echo $(date)
+echo "wordl\
+"
+echo "This is \n new lin"
+echo "This is \\
+new lin"
+history
+`asdasda`
+`date`
+`echo hol`
+`date`
+cat /prop/cpuinfo
+cat /proc/cpuinfo
+cat /etc/os-release
+dir
+cd Data 
+cd..
+cd.
+cd
+cd Data/shell
+cd ..
+cd
+cat
+cd /Data/sell
+cd /Data/shell
+cd Data
+cd shell
+dir
+cat -n Text_example.txt
+cd
+cat Data/shell/Finn.txt
+dir
+cd ./Data
+cd Music
+cd..ç
+cd..
+cd ..
+cd
+pwd
+cd Data
+pwd
+cd Public
+dir
+cd challenge
+pwd
+cd ~/Data
+ls
+dir
+cd Data
+ls
+dir
+cd
+cd Data/challenge
+ls
+cd
+cd andaconda3
+ls
+cd anaconda3
+ls
+ls -1
+ls -s
+cd
+ls
+ls -a
+ls -l
+ls -la
+ls
+ls -a
+ls -l
+ls -la
+ls -l D
+ls -l Data/README.md
+ls -S
+ls -aS
+ls -Sa
+ls -S -a
+ls -S -a -l
+ls -r
+ls -at
+ls -atl
+ls -al
+touch file00
+dir
+ls
+cat file00
+ls -l file00
+ls -l
+chomd u+x,g-w,o+w
+chmod u+x,g-w,o+w file00
+ls -l file00
+chmod u-c file00
+chmod u-x file00
+ls -l file00
+chmod 777 file00
+ls -l file00
+chmod 770 file00
+ls -l file00
+mkdir my_first_dir
+mkidr -p directorio/doc
+mkdir -p directorio/doc
+rm file00
+rm firectorio
+rm directorio
+rm -r directorio
+touch fle00
+cp fle00 fle01
+rm r my_first_dir
+rm -r my_first_dir
+mv --help
+mv -h
+man
+cp
+man cp
+mkdir first_dir
+touch first_dir/text_file.txt
+history
+chmod g+x,o+w first_dir/text_file.txt
+cd first_dir
+mkdir sub1 sub2 text_file
+cp text_file.txt sub1
+mv text_file.txt sub2/text_file.txt.2
+cp -r sub1 sub3
+dir
+cd.
+cd
+mv first_dir/sub2/text_file.txt.2 first_dir/sub2/text_file.txt.backup
+mv first_dir/sub2/text_file.txt.backup first_dir/.text_file.txt.backup
+rm -r sub2
+ls
+rm -r first_dir/sub2
+history
+cd first_dir
+ls -la
+history
+git
+git login
+git config
+git config --global user.name "Esteban Rivera"
+cd
+cat .gitconfig
+git config --global user.email "estebanriveraseco@gmail.com"
+gedit .gitconfig
+cat .history>2021-11-11.txt
+cat 2021-11-11.txt
+ls
+pwd
+cd
+cd git
+echo "# shell" >> README.md
+cat README.md
+git init
+ls -a
+cd .git
+cd..
+cd
+cd git
+git status
+git -get user.name
+git congig --get user.name
+git config --get user.name
+git add .
+git commit -m "first commit"
+touch kk.txt
+git status
+git add .
+git commit -m "Second commit"
+git branch -M master
+git remote add origin https://github.com/esteban-riv/shell.git
+git push origin master
+git login
+git push origin master
+gedit README.md
+nano README.md
+git add .
+git commit -m "Third commit"
+git push origin master
+git config -global credential.helper store
+git config --global credential.helper store
+man ls
+less kk.txt
+bash
+ll
+wich ll
+which ll
+which python
+whereis python
+echo $PATH
+which whoami
+whoami
+ls
+ñs
+ll
+zsh
+zsh
+head -n 10 README.md
+cd ..
+dsc
+cd Data
+cd opentraveldata/
+head optd_airlines.csv 
+tail -n 1 optd_airlines.csv
+less optd_airlines.csv
+cd data/shell
+cd..
+cd shell
+cd ..
+cd shell
+bash
+> pp.txt
+echo "" > pp3.txt
+ll
+nano pp3.txt
+history
+echo $HISTFILE
+LL
+ll
+cd dis
+ll
+cd home/dsc
+ll
+cd home
+cd dsc
+cd dcs
+dir
+ll /home/dsc/.history
+dir -a
+cp /home/dsc/.history home/git
+cp /home/dsc/.history home/dsc/git
+cp /home/dsc/.history /home/dsc/git
+cd /home/dsc/git
+ll
+ll -a
+git add .
+git commit -m "Se añade history"
+git push origin master
+git log
+history tail 20
+history -n
+cd..
+cd ..
+ls -l
+cd Data
+clear
+ls -l
+cd shell
+ll
+wc -w Text_example.txt
+wc Text_example.txt
+cat Text_example.txt
+echo wc "hola"
+wc "hola"
+wc hola
+wc "hola"
+echo -n "hola"
+echo -n "hola" | wc
+echo "hola" | wc
+ls
+wc Text_example.txt
+cat Text_example.txt | wc
+cat Text_example.txt | wc -l
+tail -c -1k optd_aircraft.csv | wc
+cd Data
+cd 
+dir
+cd Data
+dir
+cd opentraveldata
+ll
+tail -c -1k optd_aircraft.csv | wc
+tail -c 1k optd_aircraft.csv | wc
+tail -c 1K optd_aircraft.csv | wc
+tail -c optd_aircraft.csv | wc
+tail -c 2k optd_aircraft.csv | wc
+ls
+ll
+ls -l sort
+ls -l -sort
+ls -l -sort | head -n 1
+ls -l -sort | head -n 10
+ls -l -sort | head -n 5
+ls -l -sort | head -n 4
+ls -l -sort | head -n 3
+ls -l -sort | head -n 2
+ls -l -sort | head -n 2 >> largest_filte.txt
+dir
+cat largest_filte.txt
+ls -l
+ls -sSlr
+cd
+dir
+cd Data/shell
+head Finn.txt
+head -n 5 Finn.txt| wc
+head -n 3 Finn.txt | echo
+head -n 3 Finn.txt 
+cat Finn.txt | head -n 3 
+cat Finn.txt
+cat Finn.txt | head  3 
+cat Finn.txt | head   
+cat Finn.txt | head -n 3 | wc  
+cat -n Finn.txt 
+cd
+dir
+find Text_example.txt
+cd
+find Text_example.txt
+cd Data
+dir
+cd shell
+dir
+cat -n Text_example.txt | ejercicio.txt
+cat -n Text_example.txt  > ejercicio.txt
+cat ejercicio.txt
+cat -n Text_example.txt  >> ejercicio.txt
+ejercicio.tct
+ejercicio.txt
+cat ejercicio.txt
+release
+date
+history | grep rsync
+history | grep echo
+cat /home/history | grep echo
+cat /home/dsc/.history | grep echo
+cat /home/dsc/.history | grep rsync
+cat /home/dsc/.history | grep release
+history | grep rsync
+this file was created  $(date)
+echo this file was created  $(date)
+echo this file was created by $(username)  $(date)
+echo this file was created by $(user.username)  $(date)
+echo this file was created by $(user)  $(date)
+echo whoiam
+whoiam
+echo $USER
+echo this file was created by $(USER)  $(date)
+echo this file was created by $USER  $(date)
+echo this file was created by $USER  date
+echo this file was created by $USER  $date
+echo this file was created by $USER  $(date)
+echo this file was created by $USER  $(date) >ejemplo.txt
+cat ejemplo.txt
+cat history | tail -n 20
+cat /home/dsc/.history | tail -n 20 > historial.txt
+cat historial.txt
+cd ..
+cd 
+cd git
+ls -lrt
+cat home/dsc/.history > .history
+cat home/dcs/.history > .history
+history
+vp $HISTFILE /history_20201117.txt
+cp $HISTFILE /history_20201117.txt
+cp $HISTFILE history_20201117.txt
